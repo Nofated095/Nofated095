@@ -1,13 +1,18 @@
 ## 我的头像
 
-原版已废弃，已通过 waifu2x 进行简单放大和降噪。
+个人使用 <https://img.9595095.xyz/avatars/-1.png>
 
-有无边框和原版带边框两个版本。无边框适用于带有自动切割为原型头像的地方或者任何地方，带边框的适用于无自动切割的地方。
+个人频道 <https://img.9595095.xyz/avatars/-2.png>
 
-有边框的原版 <https://pic.rmb.bdstatic.com/bjh/8b98d9798b6997e61a19d49503845644.png> / <https://cdn.jsdelivr.net/gh/Nofated095/Nofated095@master/avatar_origin.png>
-
-![](https://pic.rmb.bdstatic.com/bjh/8b98d9798b6997e61a19d49503845644.png)
-
-无边框 <https://pic.rmb.bdstatic.com/bjh/e5df6539b6413d67a96fd9639035effa.jpeg> / <https://cdn.jsdelivr.net/gh/Nofated095/Nofated095@master/avatar.jpeg>
-
-![](https://pic.rmb.bdstatic.com/bjh/e5df6539b6413d67a96fd9639035effa.jpeg)
+<details>
+<summary>已废弃头像</summary>
+<br/>
+<h2>原版</h2>
+<a href='https://pic.rmb.bdstatic.com/bjh/8b98d9798b6997e61a19d49503845644.png'>百度百家号</a>
+<a href='https://img.9595095.xyz/avatars/old-origin.png'>官方</a>
+<br/>
+<h2>无边款</h2>
+<a href='https://pic.rmb.bdstatic.com/bjh/e5df6539b6413d67a96fd9639035effa.jpeg'>百度百家号</a>
+<a href='https://img.9595095.xyz/avatars/old.jpeg'>官方</a>
+</br>
+</details>
