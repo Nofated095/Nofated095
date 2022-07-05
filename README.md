@@ -1,6 +1,9 @@
-# Hi, I am Nofated!
+# 互联网活动无限期停止
+# Stop Internet Connection 
 
-- ⚡ HTML5 / Python3 / ~~Markdown~~
-- 📫 Email me at: <me@nofated.win>
+~~ # Hi, I am Nofated! ~~
 
-Want to know more? All links are at [My Home Page](https://nofated.win).
+- ~~ ⚡ HTML5 / Python3 / Markdown~~
+- ~~📫 Email me at: <me@nofated.win>~~
+
+~~Want to know more? All links are at [My Home Page](https://nofated.win).~~
