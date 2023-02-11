@@ -1,3 +1,14 @@
+<h1> Hello World!</h1>
+
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=nofated095" alt="Nofated095's Github Stats"/>
+
+Hi, I'm **Nofated095**, a newbie in the coding world.
+
+💖 Love open-source work, watching anime and playing games(especially gal games, Yuzu Soft is the best!).👀
+
+💡 Interested to do some DIY in the projects.
+
+⚡ Now the below is the show time of my interests in 0721 and the games of Yuzu Soft.
 ![amane_header01](https://user-images.githubusercontent.com/49985975/215312995-8e547670-a7c8-438c-ab86-706ae14d414b.png)
 ![](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/2FFCE606-9FAA-11ED-86A5-C03EBA168291.png)
 ![](https://xgjalbum.oss-cn-hangzhou.aliyuncs.com/43cb7c243eab49d55b481gb8/5CA9A039-9FAA-11ED-BFBF-C03EBA168291.png)
