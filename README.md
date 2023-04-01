@@ -4,6 +4,8 @@
 
 Hi, I'm **Nofated095**, a newbie in the coding world.
 
+This account was deleted so the data might not be accurate. I used to have 1.4 k commits in 2022.
+
 💖 Love open-source work, watching anime and playing games(especially gal games, Yuzu Soft is the best!).👀
 
 💡 Interested to do some DIY in the projects.
